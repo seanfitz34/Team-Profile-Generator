@@ -1,5 +1,7 @@
-
-
+// Generate Manager Card
+// Generate Engineer Card
+// Generate Intern Card
+// Generate HTML page   
 
 
 
