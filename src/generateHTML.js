@@ -125,4 +125,4 @@ const generateTeamPage = function (employeeCards) {
 };
 
 // exporting module
-module.exports = getnerateHTML;
+module.exports = generateHTML;

@@ -1,11 +1,7 @@
 // Included packages needed for this application
-const inquirer = require("inquirer");
 const fs = require("fs");
+const inquirer = require("inquirer");
 const generateHTML = require("./src/generateHTML");
-
-// node modules
-const fs = require("fs");
-const inquirer = require("inquirer");
 
 // team profiles
 const Manager = require("./lib/Manager");
