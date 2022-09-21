@@ -1,0 +1,30 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+:root {
+  --grey: grey;
+  --white: white;
+}
+#navbar {
+  background-color: var(--grey);
+  color: var(--white);
+  font-size: 50px;
+}
+.navbar-brand {
+  font-size: 50px;
+}
+.card-header {
+  background-color: var(--grey);
+  color: var(--white);
+}
+.card-body {
+  background-color: var(--white);
+  color: var(--grey);
+}
+.container {
+  margin: 100px auto;
+  justify-content: space-evenly;
+  display: flex;
+}
