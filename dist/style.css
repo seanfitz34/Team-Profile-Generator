@@ -6,9 +6,10 @@
 :root {
   --grey: grey;
   --white: white;
+    --blue: blue;
 }
 #navbar {
-  background-color: var(--grey);
+  background-color: var(--blue);
   color: var(--white);
   font-size: 50px;
 }
@@ -16,7 +17,7 @@
   font-size: 50px;
 }
 .card-header {
-  background-color: var(--grey);
+  background-color: var(--blue);
   color: var(--white);
 }
 .card-body {
